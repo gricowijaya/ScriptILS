@@ -1,0 +1,11 @@
+# Fdb version 3
+["pdflatex"] 1643385756 "/home/gricowijaya/Documents/Kuliah/SemesterIII/ILS/script_nanyi/script.tex" "script.pdf" "script" 1643385756
+  "/home/gricowijaya/Documents/Kuliah/SemesterIII/ILS/script_nanyi/script.tex" 1643384457 3814 dba334af69d0f91391fa7095782da31c ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1640600964 39911 2da6c67557ec033436fe5418a70a8a61 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1640880171 2920104 8b085898a53eb4964aef51f2083914fc ""
+  "script.aux" 1643382519 32 3985256e7290058c681f74d7a3565a19 ""
+  "script.tex" 1643384457 3814 dba334af69d0f91391fa7095782da31c ""
+  "texMemo.cls" 0 -1 0 ""
+  (generated)
+  "script.log"
+  "script.pdf"
